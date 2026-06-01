@@ -158,6 +158,8 @@ An interactive dashboard was built to visualise:
 - Top Performing Products
 - Discount Usage Analysis
 ![image alt](https://github.com/rishishayan/customer-shopping-behavior-analytics/blob/73462beb57034f95da133eb0aa958b255e639cb8/BI_DASHBOARD_1.png)
+
+![image alt](https://github.com/rishishayan/customer-shopping-behavior-analytics/blob/409140bb7f7abde02201cf8a6ac46a1ef0f969fd/BI_DASHBOARD_2.png)
 ---
 
 ## Project Structure
