@@ -225,6 +225,3 @@ An interactive dashboard was built to visualise:
 - B.Tech (Computer Science), BIT Mesra
 - Skills: Python, SQL, Power BI, Excel, Data Analytics, Business Intelligence
 
-LinkedIn: Add Your LinkedIn Profile Here
-
-GitHub: Add Your GitHub Profile Here
